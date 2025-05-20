@@ -74,20 +74,3 @@ Explore advanced topics in Blazor.NET,
 ASP.NET Core, and C# to further enhance
 your skills.
 
-**Additional Resources:**
-
-* Microsoft's official documentation
-for Blazor.NET
-* FreeCodeCamp or Codecademy courses on
-HTML, CSS, JavaScript, C#, and .NET
-* Udemy or Coursera courses on Web
-Development, UI/UX, or .NET
-
-This roadmap allows you to develop a
-solid foundation in front-end
-development with Bootstrap, learn the
-basics of JavaScript, and then focus on
-Blazor.NET and back-end development.
-The final phase focuses on building a
-small project, reviewing your code, and
-preparing for advanced topics
